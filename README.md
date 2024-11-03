@@ -24,7 +24,7 @@ mkdir ~/connection_share
 
 # Create the script
 nano ~/connection_share/share.py
-# (Paste the code above)
+# (Paste the code in the python script file)
 
 # Make it executable
 chmod +x ~/connection_share/share.py
